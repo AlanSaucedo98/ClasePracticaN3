@@ -1,1 +1,1 @@
-let colores = ["Rojo", "Verde", "Azul"];
+let colores = ["Rojo", "Verde", "Azul", "Amarillo"];
