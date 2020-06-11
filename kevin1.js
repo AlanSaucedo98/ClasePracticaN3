@@ -1,0 +1,1 @@
+let colores = ["Rojo", "Verde", "Azul"];
